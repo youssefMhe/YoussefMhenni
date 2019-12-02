@@ -1,0 +1,1 @@
+User-Agent: * Disallow: /intranet/ Disallow: / Allow: /*.css?* Sitemap: https://github.com/youssefMhe/YoussefMhenni.git/index-horizontal-about.html
